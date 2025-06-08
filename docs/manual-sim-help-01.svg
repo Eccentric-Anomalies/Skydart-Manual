@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="manual-sim-help-01.svg"
+   xml:space="preserve"
+   inkscape:export-filename="manual-sim-help-01.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0093364"
+     inkscape:cx="533.02348"
+     inkscape:cy="438.40686"
+     inkscape:window-width="1704"
+     inkscape:window-height="1341"
+     inkscape:window-x="2953"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     showguides="true" /><defs
+     id="defs1"><rect
+       x="292.13603"
+       y="16.113018"
+       width="63.751508"
+       height="21.717546"
+       id="rect1" /><rect
+       x="292.13602"
+       y="16.113018"
+       width="63.751507"
+       height="21.717546"
+       id="rect1-8" /></defs><g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" /><g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Frame"><image
+       preserveAspectRatio="none"
+       inkscape:svg-dpi="96"
+       width="297.00009"
+       height="210.00005"
+       xlink:href="manual-page-frame.svg"
+       id="image1"
+       x="0.19580162"
+       y="-0.7541762" /><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-1.4828647,0)"
+       id="text1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="292.13672"
+         y="33.143478"
+         id="tspan5">SIM</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:40.2416;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+       x="76.552895"
+       y="13.901858"
+       id="text2"
+       transform="translate(-0.65533982)"><tspan
+         x="76.552895"
+         y="13.901858"
+         id="tspan8"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan7">SIMULATION</tspan></tspan></text><text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,48.036899,-0.04917415)"
+       id="text1-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="292.13672"
+         y="33.143478"
+         id="tspan11">HELP</tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:96.9554;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+       x="76.552895"
+       y="13.901858"
+       id="text2-7-8"
+       transform="translate(119.17191,-6.7248402)"><tspan
+         x="76.552895"
+         y="13.901858"
+         id="tspan13"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan12">DESCRIPTION AND OVERVIEW OF
+</tspan></tspan><tspan
+         x="76.552895"
+         y="20.186856"
+         id="tspan15"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan14">IN-COCKPIT HELP TIPS</tspan></tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:49.8802;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+       x="76.552895"
+       y="13.901858"
+       id="text2-9"
+       transform="translate(48.394794,0.07111485)"><tspan
+         x="76.552895"
+         y="13.901858"
+         id="tspan17"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan16">HELP TIPS</tspan></tspan></text><text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:Verdana;-inkscape-font-specification:Verdana;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:225.038;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
+       x="76.552895"
+       y="13.901858"
+       id="text2-7-8-8"
+       transform="translate(-58.869754,13.207838)"><tspan
+         x="76.552895"
+         y="13.901858"
+         id="tspan19"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan18">HELP TIPS
+</tspan></tspan><tspan
+         x="76.552895"
+         y="20.186856"
+         id="tspan21"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan20">---------
+</tspan></tspan><tspan
+         x="76.552895"
+         y="26.471853"
+         id="tspan23"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan22">* DURING SKY DART SIMULATION, SIMULATOR PILOTS MAY SEE A SINGLE BUTTON 
+</tspan></tspan><tspan
+         x="76.552895"
+         y="32.756851"
+         id="tspan25"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan24">  ON THE SCREEN THAT IS NOT ATTACHED TO ANY SOLID OBJECT.
+</tspan></tspan><tspan
+         x="76.552895"
+         y="39.041849"
+         id="tspan27"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan26">
+</tspan></tspan><tspan
+         x="76.552895"
+         y="45.326845"
+         id="tspan29"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan28">* THIS BUTTON MAY CALL ATTENTION TO ITSELF WITH A PULSATING LIGHT.
+</tspan></tspan><tspan
+         x="76.552895"
+         y="51.611841"
+         id="tspan31"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan30">
+</tspan></tspan><tspan
+         x="76.552895"
+         y="57.896837"
+         id="tspan33"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan32">* THE BUTTON LEGEND IS CODED WITH A SKY DART USER MANUAL SECTION AND
+</tspan></tspan><tspan
+         x="76.552895"
+         y="64.181833"
+         id="tspan35"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan34">  CHAPTER CODE.
+</tspan></tspan><tspan
+         x="76.552895"
+         y="70.466829"
+         id="tspan37"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan36">
+</tspan></tspan><tspan
+         x="76.552895"
+         y="76.751825"
+         id="tspan39"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan38">* PRESS THE BUTTON TO PAUSE THE CURRENT SIMULATION AND OPEN THE 
+</tspan></tspan><tspan
+         x="76.552895"
+         y="83.036821"
+         id="tspan41"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan40">  CORRESPONDING USER MANUAL PAGE(S).
+</tspan></tspan><tspan
+         x="76.552895"
+         y="89.321817"
+         id="tspan43"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan42">
+</tspan></tspan><tspan
+         x="76.552895"
+         y="95.606813"
+         id="tspan45"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan44">* PRESS [ESC] OR VR CONTROLLER B/Y BUTTON OR GAME CONTROLLER MENU
+</tspan></tspan><tspan
+         x="76.552895"
+         y="101.89181"
+         id="tspan47"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan46">  BUTTON TO IMMEDIATELY UN-PAUSE THE SIMULATION AND RETURN TO FLIGHT.
+</tspan></tspan><tspan
+         x="76.552895"
+         y="108.17681"
+         id="tspan49"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan48">  THE ORIGINAL HELP TIP BUTTON WILL NO LONGER BE VISIBLE.
+</tspan></tspan><tspan
+         x="76.552895"
+         y="114.4618"
+         id="tspan51"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan50">
+</tspan></tspan><tspan
+         x="76.552895"
+         y="120.7468"
+         id="tspan53"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan52">* WHILE IN FLIGHT, PRESS [ESC] OR VR CONTROLLER B/Y OR GAME CONTROLLER
+</tspan></tspan><tspan
+         x="76.552895"
+         y="127.03179"
+         id="tspan55"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan54">  MENU BUTTON TO RETURN TO THE GAME MENU, THEN PRESS [MANUAL] TO
+</tspan></tspan><tspan
+         x="76.552895"
+         y="133.3168"
+         id="tspan57"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan56">  RETURN TO THE PREVIOUS MANUAL PAGE(S) VIEWED PREVIOUSLY.
+</tspan></tspan><tspan
+         x="76.552895"
+         y="139.6018"
+         id="tspan59"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan58">
+</tspan></tspan><tspan
+         x="76.552895"
+         y="145.8868"
+         id="tspan61"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan60">* IF YOU DO NOT ACTIVATE A HELP TIP BUTTON IT WILL EXPIRE IN
+</tspan></tspan><tspan
+         x="76.552895"
+         y="152.17181"
+         id="tspan63"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan62">  (TYPICALLY) TWO MINUTES.
+</tspan></tspan><tspan
+         x="76.552895"
+         y="158.45681"
+         id="tspan65"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan64">
+</tspan></tspan><tspan
+         x="76.552895"
+         y="164.74182"
+         id="tspan67"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan66">* ACTIVATING A HELP TIP BUTTON MAY CAUSE ANOTHER HELP TIP BUTTON TO 
+</tspan></tspan><tspan
+         x="76.552895"
+         y="171.02682"
+         id="tspan69"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan68">  BECOME VISIBLE.
+</tspan></tspan><tspan
+         x="76.552895"
+         y="177.31182"
+         id="tspan71"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan70">
+</tspan></tspan><tspan
+         x="76.552895"
+         y="183.59683"
+         id="tspan73"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan72">* ALL HELP TIP CONTENT IS AVAILABLE FROM THE GAME MENU [MANUAL].
+</tspan></tspan><tspan
+         x="76.552895"
+         y="189.88183"
+         id="tspan75"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan74">
+</tspan></tspan><tspan
+         x="76.552895"
+         y="196.16683"
+         id="tspan77"><tspan
+           style="font-family:'Courier New';-inkscape-font-specification:'Courier New'"
+           id="tspan76">
+</tspan></tspan></text></g></svg>
