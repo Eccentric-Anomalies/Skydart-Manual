@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
-   sodipodi:docname="manual-ctrl-ap-03.svg"
-   inkscape:export-filename="manual-ctrl-ap-03.png"
+   sodipodi:docname="manual-ctrl-ap-02.svg"
+   inkscape:export-filename="manual-ctrl-ap-02.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0093364"
-     inkscape:cx="581.07485"
-     inkscape:cy="217.46962"
-     inkscape:window-width="1875"
+     inkscape:cx="648.94123"
+     inkscape:cy="296.72961"
+     inkscape:window-width="1196"
      inkscape:window-height="991"
      inkscape:window-x="26"
      inkscape:window-y="23"
@@ -70,8 +70,8 @@
     <rect
        x="292.13602"
        y="16.113018"
-       width="63.751507"
-       height="21.717546"
+       width="103.38151"
+       height="20.726796"
        id="rect1-8" />
     <rect
        x="292.13602"
@@ -167,7 +167,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4546px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-4);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="30.437436"
-         id="tspan20">CTRL</tspan></text>
+         id="tspan1">CTRL</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61818px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:45.0609;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -177,7 +177,7 @@
        transform="translate(-1.0880925,0.07309467)"><tspan
          x="76.552895"
          y="13.901858"
-         id="tspan22">PILOT CONTROLS</tspan></text>
+         id="tspan2">PILOT CONTROLS</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,48.836883,0.65531387)"
@@ -185,7 +185,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4546px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="30.437436"
-         id="tspan23">AP</tspan></text>
+         id="tspan3">AP HOVR</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61818px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:63.5967;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -195,7 +195,7 @@
        transform="translate(49.194778,0.77560287)"><tspan
          x="76.552895"
          y="13.901858"
-         id="tspan24">AUTOPILOT PANEL</tspan></text>
+         id="tspan4">HOVER AUTOPILOT</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61818px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:96.9554;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -205,11 +205,11 @@
        transform="translate(120.25933,-5.5266886)"><tspan
          x="76.552895"
          y="13.901858"
-         id="tspan25">DESCRIPTION OF AUTOPILOT 
+         id="tspan5">DESCRIPTION OF AUTOPILOT 
 </tspan><tspan
          x="76.552895"
          y="19.674584"
-         id="tspan26">INDICATORS AND CONTROLS 03/03</tspan></text>
+         id="tspan6">INDICATORS AND CONTROLS 02/04</tspan></text>
     <rect
        style="fill:#000000;stroke-width:0.264583"
        id="rect3"
@@ -231,7 +231,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan27">WARN</tspan></text>
+         id="tspan7">WARN</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-9"
@@ -246,11 +246,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-1);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan28">RATE
+         id="tspan8">RATE
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan29">MODE</tspan></text>
+         id="tspan9">MODE</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-0"
@@ -265,11 +265,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-0);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan30">HOVR
+         id="tspan10">HOVR
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan35">MODE</tspan></text>
+         id="tspan12">MODE</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-6"
@@ -284,11 +284,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan38">HSPD
+         id="tspan13">HSPD
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan40">MODE</tspan></text>
+         id="tspan14">MODE</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-4"
@@ -303,7 +303,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan41">X10</tspan></text>
+         id="tspan15">X10</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-90"
@@ -318,11 +318,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-6);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan45">PROP
+         id="tspan16">PROP
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan46">CTRL</tspan></text>
+         id="tspan17">CTRL</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-3"
@@ -337,11 +337,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-03);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan47">ALT
+         id="tspan18">ALT
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan48">CTRL</tspan></text>
+         id="tspan19">CTRL</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect9"
@@ -351,75 +351,153 @@
        y="22.543692" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:268.365;display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
        x="18.873787"
        y="55.834949"
        id="text9"><tspan
-         sodipodi:role="line"
-         id="tspan31"
          x="18.873787"
-         y="136.09207"><tspan
-           x="18.873787"
-           y="55.834949"
-           id="tspan21"
-           style="fill:#000000;fill-opacity:1">AUTOPILOT HORIZONTAL MODE
--------------------------
-
-CONTROL      STATE      SUMMARY OF FUNCTION
--------      -----      -------------------
-HSPD MODE    ACTIVE     Autopilot maintains commanded horizontal rates. Pilot controls
-                        the rates using the joystick. The commanded rates are indicated
-                        by the green diamond bugs on the crosspointer display. Range
-                        buttons on the crosspointer X1, X10, X100 correspond to ±1 m/s,
-                        ±10 m/s, ±100 m/s.
-
-             INACTIVE   Pilot must use the joystick to MANUALLY control the ship attitude
-                        while monitoring the radar horizontal rates and crosspointer
-                        needles.
+         y="55.834949"
+         id="tspan21"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan20">AUTOPILOT VERTICAL MODE
 </tspan></tspan><tspan
-         sodipodi:role="line"
          x="18.873787"
-         y="142.2657"
-         id="tspan33" /><tspan
-         sodipodi:role="line"
+         y="62.008575"
+         id="tspan23"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan22">-----------------------
+</tspan></tspan><tspan
          x="18.873787"
-         y="148.43933"
-         id="tspan34"
-         style="fill:#000000;fill-opacity:1">X10          ACTIVE     With HSPD MODE active, provides 10x greater response from the </tspan><tspan
-         sodipodi:role="line"
+         y="68.182201"
+         id="tspan25"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan24">
+</tspan></tspan><tspan
          x="18.873787"
-         y="154.61295"
-         style="fill:#000000;fill-opacity:1"
-         id="tspan39">                        joystick.</tspan><tspan
-         sodipodi:role="line"
+         y="74.355823"
+         id="tspan27"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan26">CONTROL      STATE      SUMMARY OF FUNCTION
+</tspan></tspan><tspan
          x="18.873787"
-         y="160.78658"
-         style="fill:#000000;fill-opacity:1"
-         id="tspan37" /><tspan
-         sodipodi:role="line"
+         y="80.529445"
+         id="tspan29"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan28">-------      -----      -------------------
+</tspan></tspan><tspan
          x="18.873787"
-         y="166.96021"
-         style="fill:#000000;fill-opacity:1"
-         id="tspan36">PROP CTRL    ACTIVE     With HSPD MODE active, the green diamond bugs on the crosspointer</tspan><tspan
-         sodipodi:role="line"
+         y="86.703067"
+         id="tspan31"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan30">HOVR MODE    ACTIVE     Autopilot maintains commanded vertical rate. Pilot controls
+</tspan></tspan><tspan
+         x="18.873787"
+         y="92.876689"
+         id="tspan33"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan32">                        the rate using vernier knob. Move vernier forward to increase
+</tspan></tspan><tspan
+         x="18.873787"
+         y="99.050311"
+         id="tspan35"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan34">                        positive rate, backward to increase negative rate. Autopilot
+</tspan></tspan><tspan
+         x="18.873787"
+         y="105.22393"
+         id="tspan37"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan36">                        adjusts the main engine thrust to achieve desired rate. Moving
+</tspan></tspan><tspan
+         x="18.873787"
+         y="111.39756"
+         id="tspan39"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan38">                        the throttle t-stick with HOVR MODE active will cause an 
+</tspan></tspan><tspan
+         x="18.873787"
+         y="117.57118"
+         id="tspan41"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan40">                        Uncommanded Autopilot Disconnect WARNING.
+</tspan></tspan><tspan
+         x="18.873787"
+         y="123.7448"
+         id="tspan43"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan42">
+</tspan></tspan><tspan
+         x="18.873787"
+         y="129.91842"
+         id="tspan45"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan44">             INACTIVE   Pilot must use the MANUAL throttle t-stick control and/or the
+</tspan></tspan><tspan
+         x="18.873787"
+         y="136.09204"
+         id="tspan47"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan46">                        vernier knob to control main engine thrust while monitoring
+</tspan></tspan><tspan
+         x="18.873787"
+         y="142.26567"
+         id="tspan49"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan48">                        the radar vertical rate display.
+</tspan></tspan><tspan
+         x="18.873787"
+         y="148.4393"
+         id="tspan51"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan50">DISPLAY
+</tspan></tspan><tspan
+         x="18.873787"
+         y="154.61293"
+         id="tspan53"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan52">-------
+</tspan></tspan><tspan
+         x="18.873787"
+         y="160.78656"
+         id="tspan55"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan54">VS                      Displays commanded vertical rate in meters/sec. With HOVR MODE
+</tspan></tspan><tspan
+         x="18.873787"
+         y="166.96019"
+         id="tspan57"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan56">                        inactive, commanded vertical rate displays inactive/all dashes.
+</tspan></tspan><tspan
          x="18.873787"
          y="173.13382"
-         style="fill:#000000;fill-opacity:1"
-         id="tspan42">                        display will match the joystick position. NOTE: Releasing or </tspan><tspan
-         sodipodi:role="line"
+         id="tspan59"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan58">
+</tspan></tspan><tspan
          x="18.873787"
          y="179.30745"
-         style="fill:#000000;fill-opacity:1"
-         id="tspan43">                        centering the joystick with PROP CTRL active will cause the </tspan><tspan
-         sodipodi:role="line"
+         id="tspan61"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan60">ALT                     Displays commanded altitude in meters when VS=0. With a non-zero
+</tspan></tspan><tspan
          x="18.873787"
          y="185.48108"
-         style="fill:#000000;fill-opacity:1"
-         id="tspan44">                        autopilot to drive the horizontal speed to zero.</tspan><tspan
-         sodipodi:role="line"
-         id="tspan32"
+         id="tspan63"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan62">                        VS value set, commanded altitude displays inactive/all dashes.
+</tspan></tspan><tspan
          x="18.873787"
-         y="191.65469" /></text>
+         y="191.65471"
+         id="tspan65"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan64">
+</tspan></tspan><tspan
+         x="18.873787"
+         y="197.82834"
+         id="tspan67"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan66">NOTE: RATE MODE MUST be ACTIVE before activating HOVR MODE.</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
@@ -450,11 +528,11 @@ HSPD MODE    ACTIVE     Autopilot maintains commanded horizontal rates. Pilot co
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-8-2);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan49">VS
+         id="tspan68">VS
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan50">ALT</tspan></text>
+         id="tspan69">ALT</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,26.866066,22.444993)"
@@ -462,7 +540,7 @@ HSPD MODE    ACTIVE     Autopilot maintains commanded horizontal rates. Pilot co
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-3);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan51">xx.x</tspan></text>
+         id="tspan70">xx.x</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,26.681872,29.020385)"
@@ -470,7 +548,7 @@ HSPD MODE    ACTIVE     Autopilot maintains commanded horizontal rates. Pilot co
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-3-4);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan52">xxxx</tspan></text>
+         id="tspan71">xxxx</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

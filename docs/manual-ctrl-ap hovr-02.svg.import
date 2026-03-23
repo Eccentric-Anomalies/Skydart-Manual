@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://deiy0qarit386"
-path="res://.godot/imported/manual-ctrl-ap-02.svg-98e0616442e55690648d7afb972cc21d.ctex"
+uid="uid://bmg88r8h8q2aw"
+path="res://.godot/imported/manual-ctrl-ap hovr-02.svg-871f433be1385bd040b9a7f1e5a72519.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://help/Skydart-Manual/docs/manual-ctrl-ap-02.svg"
-dest_files=["res://.godot/imported/manual-ctrl-ap-02.svg-98e0616442e55690648d7afb972cc21d.ctex"]
+source_file="res://help/Skydart-Manual/docs/manual-ctrl-ap hovr-02.svg"
+dest_files=["res://.godot/imported/manual-ctrl-ap hovr-02.svg-871f433be1385bd040b9a7f1e5a72519.ctex"]
 
 [params]
 
