@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
-   sodipodi:docname="manual-ctrl-ap-04.svg"
-   inkscape:export-filename="manual-ctrl-ap-04.png"
+   sodipodi:docname="manual-ctrl-ap hovr-04.svg"
+   inkscape:export-filename="manual-ctrl-ap hovr-04.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,8 +28,8 @@
      inkscape:document-units="mm"
      inkscape:zoom="1.0093364"
      inkscape:cx="618.22798"
-     inkscape:cy="236.29387"
-     inkscape:window-width="1770"
+     inkscape:cy="315.55386"
+     inkscape:window-width="1033"
      inkscape:window-height="991"
      inkscape:window-x="26"
      inkscape:window-y="23"
@@ -133,6 +133,12 @@
        width="63.751507"
        height="21.717546"
        id="rect1-8-4-86-3-4" />
+    <rect
+       x="292.13602"
+       y="16.113018"
+       width="54.834759"
+       height="49.458546"
+       id="rect1-8-4-86-0" />
   </defs>
   <g
      inkscape:label="Page Frame"
@@ -167,7 +173,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4546px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-4);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="30.437436"
-         id="tspan25">CTRL</tspan></text>
+         id="tspan1">CTRL</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61818px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:45.0609;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -177,7 +183,7 @@
        transform="translate(-1.0880925,0.07309467)"><tspan
          x="76.552895"
          y="13.901858"
-         id="tspan26">PILOT CONTROLS</tspan></text>
+         id="tspan2">PILOT CONTROLS</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,48.836883,0.65531387)"
@@ -185,7 +191,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4546px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="30.437436"
-         id="tspan27">AP HOVR</tspan></text>
+         id="tspan3">AP HOVR</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61818px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:63.5967;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -195,7 +201,7 @@
        transform="translate(49.194778,0.77560287)"><tspan
          x="76.552895"
          y="13.901858"
-         id="tspan28">HOVER AUTOPILOT</tspan></text>
+         id="tspan4">HOVER AUTOPILOT</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61818px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:96.9554;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -205,11 +211,11 @@
        transform="translate(120.25933,-5.5266886)"><tspan
          x="76.552895"
          y="13.901858"
-         id="tspan30">DESCRIPTION OF AUTOPILOT 
+         id="tspan5">DESCRIPTION OF AUTOPILOT 
 </tspan><tspan
          x="76.552895"
          y="19.674584"
-         id="tspan31">INDICATORS AND CONTROLS 04/04</tspan></text>
+         id="tspan6">INDICATORS AND CONTROLS 04/04</tspan></text>
     <rect
        style="fill:#000000;stroke-width:0.264583"
        id="rect3"
@@ -231,7 +237,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan33">WARN</tspan></text>
+         id="tspan7">WARN</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-9"
@@ -246,11 +252,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-1);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan34">RATE
+         id="tspan8">RATE
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan35">MODE</tspan></text>
+         id="tspan9">MODE</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-0"
@@ -265,11 +271,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-0);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan36">HOVR
+         id="tspan10">HOVR
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan38">MODE</tspan></text>
+         id="tspan12">MODE</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-6"
@@ -284,11 +290,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan40">HSPD
+         id="tspan13">HSPD
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan41">MODE</tspan></text>
+         id="tspan14">MODE</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-4"
@@ -296,14 +302,6 @@
        height="13.078688"
        x="157.89853"
        y="26.22765" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,83.594208,25.885455)"
-       id="text1-2-2-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="292.13672"
-         y="31.432149"
-         id="tspan42">X10</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-90"
@@ -313,16 +311,16 @@
        y="26.22765" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,99.444736,22.795027)"
+       transform="matrix(0.26458333,0,0,0.26458333,81.881629,23.057163)"
        id="text1-2-2-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-6);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan43">PROP
+         id="tspan15">PROP
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan44">CTRL</tspan></text>
+         id="tspan16">CTRL</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-3"
@@ -337,11 +335,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-03);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan46">ALT
+         id="tspan17">ALT
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan47">CTRL</tspan></text>
+         id="tspan18">CTRL</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect9"
@@ -489,11 +487,11 @@ ALT CTRL     ACTIVE     Joystick left/right motion controls YAW rotation only.
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-8-2);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan49">VS
+         id="tspan19">VS
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan50">ALT</tspan></text>
+         id="tspan20">ALT</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,26.866066,22.444993)"
@@ -501,7 +499,7 @@ ALT CTRL     ACTIVE     Joystick left/right motion controls YAW rotation only.
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-3);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan53">xx.x</tspan></text>
+         id="tspan22">xx.x</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,26.681872,29.020385)"
@@ -509,7 +507,19 @@ ALT CTRL     ACTIVE     Joystick left/right motion controls YAW rotation only.
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-3-4);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan56">xxxx</tspan></text>
+         id="tspan23">xxxx</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,99.473041,22.950581)"
+       id="text1-2-2-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-0);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="292.13672"
+         y="31.432149"
+         id="tspan24">XPTR
+</tspan><tspan
+         x="292.13672"
+         y="54.765524"
+         id="tspan25">AUTO</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

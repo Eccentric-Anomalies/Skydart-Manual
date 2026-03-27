@@ -8,8 +8,8 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.3 (fcd0343856, 2026-01-01)"
-   sodipodi:docname="manual-ctrl-ap-01.svg"
-   inkscape:export-filename="manual-ctrl-ap-01.png"
+   sodipodi:docname="manual-ctrl-ap hovr-01.svg"
+   inkscape:export-filename="manual-ctrl-ap hovr-01.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0093364"
-     inkscape:cx="791.60922"
-     inkscape:cy="296.72961"
-     inkscape:window-width="1296"
+     inkscape:cx="520.14373"
+     inkscape:cy="138.20962"
+     inkscape:window-width="1033"
      inkscape:window-height="991"
      inkscape:window-x="26"
      inkscape:window-y="23"
@@ -100,8 +100,8 @@
     <rect
        x="292.13602"
        y="16.113018"
-       width="63.751507"
-       height="21.717546"
+       width="54.834757"
+       height="49.458545"
        id="rect1-8-4-86" />
     <rect
        x="292.13602"
@@ -298,12 +298,16 @@
        y="26.22765" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,83.594208,25.885455)"
+       transform="matrix(0.26458333,0,0,0.26458333,99.322364,22.739824)"
        id="text1-2-2-7"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan15">X10</tspan></text>
+         id="tspan15">XPTR
+</tspan><tspan
+         x="292.13672"
+         y="54.765524"
+         id="tspan16">AUTO</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-90"
@@ -313,16 +317,16 @@
        y="26.22765" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,99.444736,22.795027)"
+       transform="matrix(0.26458333,0,0,0.26458333,81.881629,22.795027)"
        id="text1-2-2-8"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-6);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan16">PROP
+         id="tspan17">PROP
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan17">CTRL</tspan></text>
+         id="tspan18">CTRL</tspan></text>
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-3"
@@ -337,11 +341,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-03);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan18">ALT
+         id="tspan19">ALT
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan19">CTRL</tspan></text>
+         id="tspan20">CTRL</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect9"
@@ -357,153 +361,153 @@
        id="text9"><tspan
          x="18.873787"
          y="55.834949"
-         id="tspan21"><tspan
+         id="tspan22"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan20">AUTOPILOT WARNING INDICATOR
+           id="tspan21">AUTOPILOT WARNING INDICATOR
 </tspan></tspan><tspan
          x="18.873787"
          y="62.008575"
-         id="tspan77"><tspan
+         id="tspan24"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan22">---------------------------
+           id="tspan23">---------------------------
 </tspan></tspan><tspan
          x="18.873787"
          y="68.182201"
-         id="tspan79"><tspan
+         id="tspan26"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan78">Red light illuminates and siren warns the pilot of EXTEME DANGER due to one of following:
+           id="tspan25">Red light illuminates and siren warns the pilot of EXTEME DANGER due to one of following:
 </tspan></tspan><tspan
          x="18.873787"
          y="74.355823"
-         id="tspan81"><tspan
+         id="tspan28"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan80">1. Hull Breach or Loss of Atmosphere
+           id="tspan27">1. Hull Breach or Loss of Atmosphere
 </tspan></tspan><tspan
          x="18.873787"
          y="80.529445"
-         id="tspan83"><tspan
+         id="tspan30"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan82">2. Landing Gear Failure (See: DIAG/L-GEAR in FMS for details)
+           id="tspan29">2. Landing Gear Failure (See: DIAG/L-GEAR in FMS for details)
 </tspan></tspan><tspan
          x="18.873787"
          y="86.703067"
-         id="tspan85"><tspan
+         id="tspan32"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan84">3. Uncommanded Autopilot Disconnect.
+           id="tspan31">3. Uncommanded Autopilot Disconnect.
 </tspan></tspan><tspan
          x="18.873787"
          y="92.876689"
-         id="tspan87"><tspan
+         id="tspan34"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan86">In the event of WARN activation you may silence the alarm/light by pressing the button
+           id="tspan33">In the event of WARN activation you may silence the alarm/light by pressing the button
 </tspan></tspan><tspan
          x="18.873787"
          y="99.050311"
-         id="tspan89"><tspan
+         id="tspan36"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan88">then IMMEDIATELY ascertain the source of the problem.
+           id="tspan35">then IMMEDIATELY ascertain the source of the problem.
 </tspan></tspan><tspan
          x="18.873787"
          y="105.22393"
+         id="tspan38"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan37">
+</tspan></tspan><tspan
+         x="18.873787"
+         y="111.39756"
+         id="tspan40"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan39">AUTOPILOT ROTATIONAL MODE
+</tspan></tspan><tspan
+         x="18.873787"
+         y="117.57118"
+         id="tspan77"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan41">-------------------------
+</tspan></tspan><tspan
+         x="18.873787"
+         y="123.7448"
+         id="tspan79"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan78">
+</tspan></tspan><tspan
+         x="18.873787"
+         y="129.91842"
+         id="tspan81"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan80">CONTROL      STATE      SUMMARY OF FUNCTION
+</tspan></tspan><tspan
+         x="18.873787"
+         y="136.09204"
+         id="tspan83"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan82">-------      -----      -------------------
+</tspan></tspan><tspan
+         x="18.873787"
+         y="142.26567"
+         id="tspan85"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan84">RATE MODE    ACTIVE     Pilot joystick commands pitch/roll rate (see ALT CTRL).
+</tspan></tspan><tspan
+         x="18.873787"
+         y="148.4393"
+         id="tspan87"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan86">
+</tspan></tspan><tspan
+         x="18.873787"
+         y="154.61293"
+         id="tspan89"><tspan
+           style="fill:#000000;fill-opacity:1"
+           id="tspan88">             INACTIVE   Pilot joystick commands pitch/roll torque.
+</tspan></tspan><tspan
+         x="18.873787"
+         y="160.78656"
          id="tspan91"><tspan
            style="fill:#000000;fill-opacity:1"
            id="tspan90">
 </tspan></tspan><tspan
          x="18.873787"
-         y="111.39756"
+         y="166.96019"
          id="tspan93"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan92">AUTOPILOT ROTATIONAL MODE
-</tspan></tspan><tspan
-         x="18.873787"
-         y="117.57118"
-         id="tspan95"><tspan
-           style="fill:#000000;fill-opacity:1"
-           id="tspan94">-------------------------
-</tspan></tspan><tspan
-         x="18.873787"
-         y="123.7448"
-         id="tspan97"><tspan
-           style="fill:#000000;fill-opacity:1"
-           id="tspan96">
-</tspan></tspan><tspan
-         x="18.873787"
-         y="129.91842"
-         id="tspan99"><tspan
-           style="fill:#000000;fill-opacity:1"
-           id="tspan98">CONTROL      STATE      SUMMARY OF FUNCTION
-</tspan></tspan><tspan
-         x="18.873787"
-         y="136.09204"
-         id="tspan101"><tspan
-           style="fill:#000000;fill-opacity:1"
-           id="tspan100">-------      -----      -------------------
-</tspan></tspan><tspan
-         x="18.873787"
-         y="142.26567"
-         id="tspan103"><tspan
-           style="fill:#000000;fill-opacity:1"
-           id="tspan102">RATE MODE    ACTIVE     Pilot joystick commands pitch/roll rate (see ALT CTRL).
-</tspan></tspan><tspan
-         x="18.873787"
-         y="148.4393"
-         id="tspan105"><tspan
-           style="fill:#000000;fill-opacity:1"
-           id="tspan104">
-</tspan></tspan><tspan
-         x="18.873787"
-         y="154.61293"
-         id="tspan107"><tspan
-           style="fill:#000000;fill-opacity:1"
-           id="tspan106">             INACTIVE   Pilot joystick commands pitch/roll torque.
-</tspan></tspan><tspan
-         x="18.873787"
-         y="160.78656"
-         id="tspan109"><tspan
-           style="fill:#000000;fill-opacity:1"
-           id="tspan108">
-</tspan></tspan><tspan
-         x="18.873787"
-         y="166.96019"
-         id="tspan111"><tspan
-           style="fill:#000000;fill-opacity:1"
-           id="tspan110">NOTES
+           id="tspan92">NOTES
 </tspan></tspan><tspan
          x="18.873787"
          y="173.13382"
-         id="tspan113"><tspan
+         id="tspan95"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan112">
+           id="tspan94">
 </tspan></tspan><tspan
          x="18.873787"
          y="179.30745"
-         id="tspan115"><tspan
+         id="tspan97"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan114">1. RATE MODE is automatically ACTIVATED upon lifting off from the surface and 
+           id="tspan96">1. RATE MODE is automatically ACTIVATED upon lifting off from the surface and 
 </tspan></tspan><tspan
          x="18.873787"
          y="185.48108"
-         id="tspan117"><tspan
+         id="tspan99"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan116">   DEACTIVATED when landing. 
+           id="tspan98">   DEACTIVATED when landing. 
 </tspan></tspan><tspan
          x="18.873787"
          y="191.65471"
-         id="tspan119"><tspan
+         id="tspan101"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan118">2. With RATE MODE active, centering the pilot joystick will stop all rotational motion.
+           id="tspan100">2. With RATE MODE active, centering the pilot joystick will stop all rotational motion.
 </tspan></tspan><tspan
          x="18.873787"
          y="197.82834"
-         id="tspan121"><tspan
+         id="tspan103"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan120">3. RATE MODE MUST be ACTIVE before activating HOVR MODE.
+           id="tspan102">3. RATE MODE MUST be ACTIVE before activating HOVR MODE.
 </tspan></tspan><tspan
          x="18.873787"
          y="204.00197"
-         id="tspan123"><tspan
+         id="tspan105"><tspan
            style="fill:#000000;fill-opacity:1"
-           id="tspan122">
+           id="tspan104">
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -535,11 +539,11 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-8-2);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan124">VS
+         id="tspan106">VS
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan125">ALT</tspan></text>
+         id="tspan107">ALT</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,26.866066,22.444993)"
@@ -547,7 +551,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-3);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan126">xx.x</tspan></text>
+         id="tspan108">xx.x</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,26.681872,29.020385)"
@@ -555,7 +559,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-3-4);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan127">xxxx</tspan></text>
+         id="tspan109">xxxx</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
