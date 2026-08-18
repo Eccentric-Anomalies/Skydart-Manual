@@ -26,15 +26,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.5046682"
-     inkscape:cx="593.45923"
-     inkscape:cy="304.16024"
-     inkscape:window-width="1033"
+     inkscape:zoom="1.0093364"
+     inkscape:cx="705.41397"
+     inkscape:cy="359.14686"
+     inkscape:window-width="1770"
      inkscape:window-height="991"
      inkscape:window-x="26"
      inkscape:window-y="23"
      inkscape:window-maximized="0"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      showborder="false"
      borderlayer="false"
      showguides="true">
@@ -224,63 +224,69 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3333px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-1-5);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="33.6205"
-         id="tspan28"><tspan
+         id="tspan5"><tspan
            style="-inkscape-font-specification:'Courier Prime'"
-           id="tspan1">SYSTEM INF. (SYS)     -  OVERVIEW (OVR)
+           id="tspan2">SYSTEM INF. (SYS)     -  OVERVIEW (OVR)
 </tspan></tspan><tspan
          x="292.13672"
          y="60.287126"
-         id="tspan30"><tspan
+         id="tspan10"><tspan
            style="-inkscape-font-specification:'Courier Prime'"
-           id="tspan29">
+           id="tspan9">                         PERFORMANCE (PERF)
 </tspan></tspan><tspan
          x="292.13672"
          y="86.953752"
-         id="tspan32"><tspan
+         id="tspan12"><tspan
            style="-inkscape-font-specification:'Courier Prime'"
-           id="tspan31">PILOT CONTROLS (CTRL) -  HOVER AUTOPILOT (AP HOVR)
+           id="tspan11">
 </tspan></tspan><tspan
          x="292.13672"
          y="113.62038"
-         id="tspan34"><tspan
+         id="tspan14"><tspan
            style="-inkscape-font-specification:'Courier Prime'"
-           id="tspan33">
+           id="tspan13">PILOT CONTROLS (CTRL) -  HOVER AUTOPILOT (AP HOVR)
 </tspan></tspan><tspan
          x="292.13672"
          y="140.287"
-         id="tspan36"><tspan
+         id="tspan16"><tspan
            style="-inkscape-font-specification:'Courier Prime'"
-           id="tspan35">SIMULATION (SIM)      -  OVERVIEW (OVR)
+           id="tspan15">
 </tspan></tspan><tspan
          x="292.13672"
          y="166.95363"
-         id="tspan38"><tspan
+         id="tspan18"><tspan
            style="-inkscape-font-specification:'Courier Prime'"
-           id="tspan37">                         KEYBOARD (KBD)
+           id="tspan17">SIMULATION (SIM)      -  OVERVIEW (OVR)
 </tspan></tspan><tspan
          x="292.13672"
          y="193.62026"
-         id="tspan40"><tspan
+         id="tspan20"><tspan
            style="-inkscape-font-specification:'Courier Prime'"
-           id="tspan39">                         VIRTUAL REALITY (VR)
+           id="tspan19">                         KEYBOARD (KBD)
 </tspan></tspan><tspan
          x="292.13672"
          y="220.28688"
-         id="tspan42"><tspan
+         id="tspan22"><tspan
            style="-inkscape-font-specification:'Courier Prime'"
-           id="tspan41">                         XBOX (XBOX)
+           id="tspan21">                         VIRTUAL REALITY (VR)
 </tspan></tspan><tspan
          x="292.13672"
          y="246.95351"
-         id="tspan44"><tspan
+         id="tspan24"><tspan
            style="-inkscape-font-specification:'Courier Prime'"
-           id="tspan43">                         PLAYSTATION (PS)
+           id="tspan23">                         XBOX (XBOX)
 </tspan></tspan><tspan
          x="292.13672"
          y="273.62013"
-         id="tspan46"><tspan
+         id="tspan26"><tspan
            style="-inkscape-font-specification:'Courier Prime'"
-           id="tspan45">                         STEAMDECK (STEAM)
+           id="tspan25">                         PLAYSTATION (PS)
+</tspan></tspan><tspan
+         x="292.13672"
+         y="300.28676"
+         id="tspan48"><tspan
+           style="-inkscape-font-specification:'Courier Prime'"
+           id="tspan27">                         STEAMDECK (STEAM)
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -552,6 +558,6 @@
      transform="translate(45.227374,16.682228)"><tspan
        x="-33.899254"
        y="182.45094"
-       id="tspan47">COPYRIGHT (C) 1988 AMC AEROSPACE
+       id="tspan49">COPYRIGHT (C) 1988 AMC AEROSPACE
 </tspan></text>
 </svg>
