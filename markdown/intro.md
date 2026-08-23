@@ -6,5 +6,5 @@ has_children: true
 ---
 # Sky Dart: The Spacecraft Manual
 
-This is the actual flight manual hanging inside the Sky Dart cockpit.
+This is the [actual flight manual](/docs/Skydart-Manual/pdf/skydart-manual.pdf) hanging inside the Sky Dart cockpit.
 
