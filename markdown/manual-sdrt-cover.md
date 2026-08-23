@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SDRT COVER
-parent: Sky Dart Manual
+title: SkyDart Cover
+parent: SkyDart
 nav_order: 1
 ---
-
-![Page 1](/docs/Skydart-Manual/docs/manual-sdrt-cover-00.png})
+![Cover Page 1](/docs/Skydart-Manual/docs/manual-sdrt-cover-01.png)

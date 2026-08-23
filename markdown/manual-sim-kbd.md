@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SIM KBD
-parent: Sky Dart Manual
-nav_order: 6
+title: Spacecraft Simulation Keyboard and Mouse
+parent: Spacecraft Simulation
+nav_order: 2
 ---
-
-![Page 1](/docs/Skydart-Manual/docs/manual-sim-kbd-00.png})
+![Keyboard and Mouse Page 1](/docs/Skydart-Manual/docs/manual-sim-kbd-01.png)

@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SIM PS
-parent: Sky Dart Manual
-nav_order: 9
+title: Spacecraft Simulation PlayStation Controller
+parent: Spacecraft Simulation
+nav_order: 5
 ---
-
-![Page 1](/docs/Skydart-Manual/docs/manual-sim-ps-00.png})
+![PlayStation Controller Page 1](/docs/Skydart-Manual/docs/manual-sim-ps-01.png)

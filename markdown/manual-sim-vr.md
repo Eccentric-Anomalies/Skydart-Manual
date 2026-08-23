@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SIM VR
-parent: Sky Dart Manual
-nav_order: 7
+title: Spacecraft Simulation VR Controller
+parent: Spacecraft Simulation
+nav_order: 3
 ---
-
-![Page 1](/docs/Skydart-Manual/docs/manual-sim-vr-00.png})
+![VR Controller Page 1](/docs/Skydart-Manual/docs/manual-sim-vr-01.png)

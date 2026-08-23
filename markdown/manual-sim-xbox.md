@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SIM XBOX
-parent: Sky Dart Manual
-nav_order: 8
+title: Spacecraft Simulation XBOX Controller
+parent: Spacecraft Simulation
+nav_order: 4
 ---
-
-![Page 1](/docs/Skydart-Manual/docs/manual-sim-xbox-00.png})
+![XBOX Controller Page 1](/docs/Skydart-Manual/docs/manual-sim-xbox-01.png)

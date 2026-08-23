@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SIM OVR
-parent: Sky Dart Manual
-nav_order: 5
+title: Spacecraft Simulation Overview
+parent: Spacecraft Simulation
+nav_order: 1
 ---
-
-![Page 1](/docs/Skydart-Manual/docs/manual-sim-ovr-00.png})
+![Overview Page 1](/docs/Skydart-Manual/docs/manual-sim-ovr-01.png)

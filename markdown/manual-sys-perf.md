@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SYS PERF
-parent: Sky Dart Manual
-nav_order: 3
+title: Spacecraft Systems Performance
+parent: Spacecraft Systems
+nav_order: 2
 ---
-
-![Page 1](/docs/Skydart-Manual/docs/manual-sys-perf-00.png})
+![Performance Page 1](/docs/Skydart-Manual/docs/manual-sys-perf-01.png)

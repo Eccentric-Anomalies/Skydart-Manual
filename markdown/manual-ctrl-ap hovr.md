@@ -1,11 +1,10 @@
 ---
 layout: default
-title: CTRL AP HOVR
-parent: Sky Dart Manual
-nav_order: 4
+title: Pilot Controls Hover Autopilot
+parent: Pilot Controls
+nav_order: 1
 ---
-
-![Page 1](/docs/Skydart-Manual/docs/manual-ctrl-ap hovr-00.png})
-![Page 2](/docs/Skydart-Manual/docs/manual-ctrl-ap hovr-01.png})
-![Page 3](/docs/Skydart-Manual/docs/manual-ctrl-ap hovr-02.png})
-![Page 4](/docs/Skydart-Manual/docs/manual-ctrl-ap hovr-03.png})
+![Hover Autopilot Page 1](/docs/Skydart-Manual/docs/manual-ctrl-ap hovr-01.png)
+![Hover Autopilot Page 2](/docs/Skydart-Manual/docs/manual-ctrl-ap hovr-02.png)
+![Hover Autopilot Page 3](/docs/Skydart-Manual/docs/manual-ctrl-ap hovr-03.png)
+![Hover Autopilot Page 4](/docs/Skydart-Manual/docs/manual-ctrl-ap hovr-04.png)

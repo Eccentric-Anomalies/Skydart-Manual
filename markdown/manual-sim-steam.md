@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SIM STEAM
-parent: Sky Dart Manual
-nav_order: 10
+title: Spacecraft Simulation Steam Deck Controller
+parent: Spacecraft Simulation
+nav_order: 6
 ---
-
-![Page 1](/docs/Skydart-Manual/docs/manual-sim-steam-00.png})
+![Steam Deck Controller Page 1](/docs/Skydart-Manual/docs/manual-sim-steam-01.png)

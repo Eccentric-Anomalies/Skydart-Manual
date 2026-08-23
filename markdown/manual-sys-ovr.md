@@ -1,8 +1,7 @@
 ---
 layout: default
-title: SYS OVR
-parent: Sky Dart Manual
-nav_order: 2
+title: Spacecraft Systems Overview
+parent: Spacecraft Systems
+nav_order: 1
 ---
-
-![Page 1](/docs/Skydart-Manual/docs/manual-sys-ovr-00.png})
+![Overview Page 1](/docs/Skydart-Manual/docs/manual-sys-ovr-01.png)
