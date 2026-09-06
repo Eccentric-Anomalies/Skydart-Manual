@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.0093364"
-     inkscape:cx="617.7326"
-     inkscape:cy="315.55386"
-     inkscape:window-width="1033"
+     inkscape:cx="616.74185"
+     inkscape:cy="394.81386"
+     inkscape:window-width="1913"
      inkscape:window-height="991"
      inkscape:window-x="26"
      inkscape:window-y="23"
@@ -139,6 +139,48 @@
        width="54.834759"
        height="49.458546"
        id="rect1-8-4-86-0" />
+    <rect
+       x="292.13602"
+       y="16.113018"
+       width="62.760757"
+       height="47.477043"
+       id="rect1-8-4-1-2" />
+    <rect
+       x="292.13602"
+       y="16.113018"
+       width="52.853256"
+       height="47.477043"
+       id="rect1-8-4-0-8" />
+    <rect
+       x="292.13602"
+       y="16.113018"
+       width="54.834759"
+       height="47.477043"
+       id="rect1-8-4-8-8" />
+    <rect
+       x="292.13602"
+       y="16.113018"
+       width="56.816257"
+       height="54.412296"
+       id="rect1-8-4-6-9" />
+    <rect
+       x="292.13602"
+       y="16.113018"
+       width="54.834759"
+       height="47.477043"
+       id="rect1-8-4-8-2-2" />
+    <rect
+       x="292.13602"
+       y="16.113018"
+       width="63.751507"
+       height="21.717546"
+       id="rect1-8-4-86-3-8" />
+    <rect
+       x="292.13602"
+       y="16.113018"
+       width="63.751507"
+       height="21.717546"
+       id="rect1-8-4-86-3-4-8" />
   </defs>
   <g
      inkscape:label="Page Frame"
@@ -173,7 +215,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4546px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-4);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="30.437436"
-         id="tspan26">CTRL</tspan></text>
+         id="tspan15">CTRL</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61818px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:45.0609;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -183,7 +225,7 @@
        transform="translate(-1.0880925,0.07309467)"><tspan
          x="76.552895"
          y="13.901858"
-         id="tspan27">PILOT CONTROLS</tspan></text>
+         id="tspan16">PILOT CONTROLS</tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,48.836883,0.65531387)"
@@ -191,7 +233,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.4546px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.13386;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="30.437436"
-         id="tspan28">AP HOVR</tspan></text>
+         id="tspan17">AP HOVR</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61818px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:63.5967;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -201,7 +243,7 @@
        transform="translate(49.194778,0.77560287)"><tspan
          x="76.552895"
          y="13.901858"
-         id="tspan30">HOVER AUTOPILOT</tspan></text>
+         id="tspan18">HOVER AUTOPILOT</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61818px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:96.9554;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-dasharray:none;stroke-opacity:1"
@@ -211,251 +253,121 @@
        transform="translate(120.25933,-5.5266886)"><tspan
          x="76.552895"
          y="13.901858"
-         id="tspan31">DESCRIPTION OF AUTOPILOT 
+         id="tspan19">DESCRIPTION OF AUTOPILOT 
 </tspan><tspan
          x="76.552895"
          y="19.674584"
-         id="tspan33">INDICATORS AND CONTROLS 04/04</tspan></text>
-    <rect
-       style="fill:#000000;stroke-width:0.264583"
-       id="rect3"
-       width="12.05825"
-       height="11.533981"
-       x="47.446606"
-       y="27.000002" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4"
-       width="14.599465"
-       height="13.078688"
-       x="41.45755"
-       y="26.22765" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-34.419585,25.85531)"
-       id="text1-2-2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="292.13672"
-         y="31.432149"
-         id="tspan34">WARN</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4-9"
-       width="14.599465"
-       height="13.078688"
-       x="67.540207"
-       y="26.22765" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,-8.3369211,22.768499)"
-       id="text1-2-2-3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-1);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="292.13672"
-         y="31.432149"
-         id="tspan35">RATE
-</tspan><tspan
-         x="292.13672"
-         y="54.765524"
-         id="tspan36">MODE</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4-0"
-       width="14.599465"
-       height="13.078688"
-       x="85.199295"
-       y="26.22765" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,9.3221624,22.795027)"
-       id="text1-2-2-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-0);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="292.13672"
-         y="31.432149"
-         id="tspan38">HOVR
-</tspan><tspan
-         x="292.13672"
-         y="54.765524"
-         id="tspan40">MODE</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4-6"
-       width="14.599465"
-       height="13.078688"
-       x="139.79674"
-       y="26.22765" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,63.919594,22.795027)"
-       id="text1-2-2-4"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="292.13672"
-         y="31.432149"
-         id="tspan41">HSPD
-</tspan><tspan
-         x="292.13672"
-         y="54.765524"
-         id="tspan42">MODE</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4-4"
-       width="14.599465"
-       height="13.078688"
-       x="157.89853"
-       y="26.22765" />
-    <rect
-       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4-90"
-       width="14.599465"
-       height="13.078688"
-       x="175.32187"
-       y="26.22765" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,81.881629,23.057163)"
-       id="text1-2-2-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-6);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="292.13672"
-         y="31.432149"
-         id="tspan43">PROP
-</tspan><tspan
-         x="292.13672"
-         y="54.765524"
-         id="tspan44">CTRL</tspan></text>
-    <rect
-       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4-3"
-       width="14.599465"
-       height="13.078688"
-       x="225.28409"
-       y="26.22765" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,149.66907,22.768499)"
-       id="text1-2-2-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-03);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="292.13672"
-         y="31.432149"
-         id="tspan46">ALT
-</tspan><tspan
-         x="292.13672"
-         y="54.765524"
-         id="tspan47">CTRL</tspan></text>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
-       id="rect9"
-       width="210.75729"
-       height="22.019419"
-       x="35.126213"
-       y="22.543692" />
+         id="tspan20">INDICATORS AND CONTROLS 04/04</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;writing-mode:lr-tb;direction:ltr;white-space:pre;display:inline;fill:none;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-opacity:1"
        x="18.873787"
-       y="55.834949"
+       y="59.53912"
        id="text9"><tspan
          x="18.873787"
-         y="99.050323"
-         sodipodi:role="line"
-         id="tspan29"><tspan
-   x="18.873787"
-   y="55.834949"
-   id="tspan21"
-   style="fill:#000000;fill-opacity:1">AUTOPILOT ALTERNATE CONTROL MODE
---------------------------------
+         y="90.407242"
+         style="fill:#000000;fill-opacity:1"
+         id="tspan39"
+         sodipodi:role="line"><tspan
+   id="tspan13"
+   style="fill:none;fill-opacity:0"><tspan
+     x="18.873787"
+     y="59.53912"
+     id="tspan21"
+     style="fill:#000000;fill-opacity:1">AUTOPILOT ALTERNATE CONTROL MODE (SEE CTRL UTILITY)
+---------------------------------------------------
 
 CONTROL      STATE      SUMMARY OF FUNCTION
 -------      -----      -------------------
-ALT CTRL     ACTIVE     Joystick left/right motion controls YAW rotation only.
-
-             INACTIVE   HSPD INACTIVE: Joystick left/right motion controls ROLL rate.</tspan>        </tspan><tspan
+ALT CTRL     INACTIVE   </tspan></tspan>HSPD ACTIVE: Joystick left/right motion controls lateral rate.</tspan><tspan
          x="18.873787"
-         y="105.22395"
-         style="fill:#000000;fill-opacity:1"
-         id="tspan39"
-         sodipodi:role="line">                        HSPD ACTIVE: Joystick left/right motion controls lateral rate.</tspan><tspan
-         x="18.873787"
-         y="111.39758"
+         y="96.580872"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan37" /><tspan
          x="18.873787"
-         y="117.5712"
+         y="102.75449"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan70">AUTOPILOT RADAR SPECIFICATIONS OVERVIEW:</tspan><tspan
+         id="tspan70">AUTOPILOT RADAR SPECIFICATIONS OVERVIEW</tspan><tspan
          x="18.873787"
-         y="123.74483"
+         y="108.92812"
+         style="fill:#000000;fill-opacity:1"
+         sodipodi:role="line"
+         id="tspan14">---------------------------------------</tspan><tspan
+         x="18.873787"
+         y="115.10175"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan71" /><tspan
          x="18.873787"
-         y="129.91846"
+         y="121.27537"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan45">RADAR        DIRECTION       MAX RANGE      MAX DOPPLER      NOTES</tspan><tspan
          x="18.873787"
-         y="136.09207"
+         y="127.449"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan59">-----        ---------       ---------      -----------      -----</tspan><tspan
          x="18.873787"
-         y="142.2657"
+         y="133.62262"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan69">OMNI         DOWN (1)        400 m          200 m/s          Altitude and vertical velocity</tspan><tspan
          x="18.873787"
-         y="148.43933"
+         y="139.79625"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan60">DIRECTIONAL  DOWN (1)        2000 m         N/A              Altitude only (low fidelity) </tspan><tspan
          x="18.873787"
-         y="154.61295"
+         y="145.96986"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan48">DIRECTIONAL  SIDE (4)        2000 m         200 m/s          Effective lateral range 500 m</tspan><tspan
          x="18.873787"
-         y="160.78658"
+         y="152.14349"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan51" /><tspan
          x="18.873787"
-         y="166.96021"
+         y="158.31712"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan52">AUTOPILOT LIMITATIONS</tspan><tspan
          x="18.873787"
-         y="173.13382"
+         y="164.49074"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan54">---------------------</tspan><tspan
          x="18.873787"
-         y="179.30745"
+         y="170.66437"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan55">1. HOVR MODE is available between zero and 90% of the OMNI MAX RANGE or 360 m altitude.</tspan><tspan
          x="18.873787"
-         y="185.48108"
+         y="176.838"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan65">2. Maximum pitch/roll in HSPD MODE is 20 degrees, derated to 5 degrees at 360 m altitude.</tspan><tspan
          x="18.873787"
-         y="191.65469"
+         y="183.01163"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan66">3. HOVR MODE will automatically limit vertical rate to stay in 0-360m altitude range.</tspan><tspan
          x="18.873787"
-         y="197.82832"
+         y="189.18524"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
          id="tspan67">4. Excursion outside of the autopilot operational limits will cause an automatic </tspan><tspan
          x="18.873787"
-         y="204.00195"
+         y="195.35887"
          style="fill:#000000;fill-opacity:1"
          sodipodi:role="line"
-         id="tspan68">   Uncommanded Autopilot Disconnect and activate the AUTOPILOT WARNING INDICATOR. </tspan><tspan
+         id="tspan68">   Uncommanded Autopilot Disconnect and activate the CAUTION annunciator (See CTRL ANNUNC). </tspan><tspan
          id="tspan32"
          x="18.873787"
-         y="210.17557"
+         y="201.5325"
          sodipodi:role="line" /></text>
     <text
        xml:space="preserve"
@@ -467,59 +379,128 @@ ALT CTRL     ACTIVE     Joystick left/right motion controls YAW rotation only.
          id="tspan11"
          style="stroke-width:0.1" /></text>
     <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4-9"
+       width="14.599465"
+       height="13.078688"
+       x="89.020248"
+       y="26.423544" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,13.143105,22.964392)"
+       id="text1-2-2-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-1-2);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="292.13672"
+         y="31.432149"
+         id="tspan22">RATE
+</tspan><tspan
+         x="292.13672"
+         y="54.765524"
+         id="tspan23">MODE</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4-0"
+       width="14.599465"
+       height="13.078688"
+       x="106.67934"
+       y="26.423544" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,30.802199,22.99092)"
+       id="text1-2-2-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-0-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="292.13672"
+         y="31.432149"
+         id="tspan24">HOVR
+</tspan><tspan
+         x="292.13672"
+         y="54.765524"
+         id="tspan25">MODE</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4-6"
+       width="14.599465"
+       height="13.078688"
+       x="157.57236"
+       y="26.423544" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,81.695462,22.99092)"
+       id="text1-2-2-4"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-8-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="292.13672"
+         y="31.432149"
+         id="tspan26">HSPD
+</tspan><tspan
+         x="292.13672"
+         y="54.765524"
+         id="tspan27">MODE</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.580148;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4-4"
+       width="14.599465"
+       height="13.078688"
+       x="175.67415"
+       y="26.423544" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,99.657493,22.99092)"
+       id="text1-2-2-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-6-9);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
+         x="292.13672"
+         y="31.432149"
+         id="tspan28">PROP
+</tspan><tspan
+         x="292.13672"
+         y="54.765524"
+         id="tspan29">CTRL</tspan></text>
+    <path
+       id="rect9"
+       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.5"
+       d="M 84.122917,22.739585 H 194.86784 V 44.759003 H 84.122917 Z"
+       sodipodi:nodetypes="ccccc" />
+    <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-7"
        width="14.778383"
        height="6.1799355"
-       x="102.24221"
-       y="26.275534" />
+       x="123.72219"
+       y="26.471428" />
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
        id="rect4-7-7"
        width="14.778383"
        height="6.1799355"
-       x="102.24783"
-       y="33.182602" />
+       x="123.72781"
+       y="33.378494" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,41.653734,22.675419)"
+       transform="matrix(0.26458333,0,0,0.26458333,63.133771,22.871312)"
        id="text1-2-2-4-6"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-8-2);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-8-2-2);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan49">VS
+         id="tspan30">VS
 </tspan><tspan
          x="292.13672"
          y="54.765524"
-         id="tspan50">ALT</tspan></text>
+         id="tspan31">ALT</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,26.866066,22.444993)"
+       transform="matrix(0.26458333,0,0,0.26458333,48.346103,22.640886)"
        id="text1-2-2-7-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-3);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-3-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan53">xx.x</tspan></text>
+         id="tspan33">xx.x</tspan></text>
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,26.681872,29.020385)"
+       transform="matrix(0.26458333,0,0,0.26458333,48.161909,29.216278)"
        id="text1-2-2-7-5-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-3-4);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-3-4-8);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
          x="292.13672"
          y="31.432149"
-         id="tspan56">xxxx</tspan></text>
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,99.473041,22.950581)"
-       id="text1-2-2-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;font-family:'Courier Prime';-inkscape-font-specification:'Courier Prime, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1-8-4-86-0);display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"><tspan
-         x="292.13672"
-         y="31.432149"
-         id="tspan57">XPTR
-</tspan><tspan
-         x="292.13672"
-         y="54.765524"
-         id="tspan58">AUTO</tspan></text>
+         id="tspan34">xxxx</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
