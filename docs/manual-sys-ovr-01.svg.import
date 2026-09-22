@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://ba1c47i5x0brl"
 path.s3tc="res://.godot/imported/manual-sys-ovr-01.svg-a2a22ee942539b98337cf7fc1f23b99e.s3tc.ctex"
+path.etc2="res://.godot/imported/manual-sys-ovr-01.svg-a2a22ee942539b98337cf7fc1f23b99e.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://help/Skydart-Manual/docs/manual-sys-ovr-01.svg"
-dest_files=["res://.godot/imported/manual-sys-ovr-01.svg-a2a22ee942539b98337cf7fc1f23b99e.s3tc.ctex"]
+dest_files=["res://.godot/imported/manual-sys-ovr-01.svg-a2a22ee942539b98337cf7fc1f23b99e.s3tc.ctex", "res://.godot/imported/manual-sys-ovr-01.svg-a2a22ee942539b98337cf7fc1f23b99e.etc2.ctex"]
 
 [params]
 

@@ -4,15 +4,16 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://d2ou4iu1jen48"
 path.s3tc="res://.godot/imported/manual-sdrt-cover-01.png-fb843cc150146c2ac0f01dbba4f1117a.s3tc.ctex"
+path.etc2="res://.godot/imported/manual-sdrt-cover-01.png-fb843cc150146c2ac0f01dbba4f1117a.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
+"imported_formats": ["s3tc_bptc", "etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://help/Skydart-Manual/docs/manual-sdrt-cover-01.png"
-dest_files=["res://.godot/imported/manual-sdrt-cover-01.png-fb843cc150146c2ac0f01dbba4f1117a.s3tc.ctex"]
+dest_files=["res://.godot/imported/manual-sdrt-cover-01.png-fb843cc150146c2ac0f01dbba4f1117a.s3tc.ctex", "res://.godot/imported/manual-sdrt-cover-01.png-fb843cc150146c2ac0f01dbba4f1117a.etc2.ctex"]
 
 [params]
 
