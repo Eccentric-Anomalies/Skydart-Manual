@@ -4,16 +4,15 @@ importer="texture"
 type="CompressedTexture2D"
 uid="uid://blgjdlvpshwvm"
 path.s3tc="res://.godot/imported/manual-page-frame.png-fd46746750bab6c664b58142998d4c06.s3tc.ctex"
-path.etc2="res://.godot/imported/manual-page-frame.png-fd46746750bab6c664b58142998d4c06.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://help/Skydart-Manual/docs/manual-page-frame.png"
-dest_files=["res://.godot/imported/manual-page-frame.png-fd46746750bab6c664b58142998d4c06.s3tc.ctex", "res://.godot/imported/manual-page-frame.png-fd46746750bab6c664b58142998d4c06.etc2.ctex"]
+dest_files=["res://.godot/imported/manual-page-frame.png-fd46746750bab6c664b58142998d4c06.s3tc.ctex"]
 
 [params]
 
